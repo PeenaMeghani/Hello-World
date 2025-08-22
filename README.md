@@ -11,3 +11,8 @@ My goal is to be a famouse Artist.
 Currenty , I am study in the SVGU.
 My study field is Computer Application.
 I am final year student so we have also one Project of website
+
+#Commit 3
+So my project is about the Pet Care website.
+We are total 4 memebers in our project group.
+Our project main motive is to reduce the time wastage of Pet Owner and get high quality product and grooming for thier Pets.
