@@ -16,3 +16,9 @@ I am final year student so we have also one Project of website
 So my project is about the Pet Care website.
 We are total 4 memebers in our project group.
 Our project main motive is to reduce the time wastage of Pet Owner and get high quality product and grooming for thier Pets.
+
+#Commit 4
+My main passion is in the art.
+I have done many poteraits works as well as many canvas paintings.
+I also won two major competition in which i won 21000 price money.
+I also won Divya Bhaskar Drawing Competition.
